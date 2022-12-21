@@ -8,7 +8,7 @@ public class Matematicas {
             System.out.printf("ES IMPAR");
         }
     }
-    /*public static boolean esDivisiblePorTres(int numero){
+   public static boolean esDivisiblePorTres(int numero){
         if (numero % 3==0){
             System.out.printf("ES DIVISIBLE X3");
         }else{
@@ -16,7 +16,7 @@ public class Matematicas {
         }
         return true;
     }
-    public static boolean esDivisiblePorCinco(int numero){
+    /* public static boolean esDivisiblePorCinco(int numero){
         if (numero % 5==0){
             System.out.printf("ES DIVISIBLE X5");
         }else{

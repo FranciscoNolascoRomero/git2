@@ -10,6 +10,6 @@ public class TestMatematicas {
         int numero = sc.nextInt();
         Matematicas.espar(numero);
         //Matematicas.esDivisiblePorCinco(numero);
-       // Matematicas.esDivisiblePorTres(numero);
+        Matematicas.esDivisiblePorTres(numero);
     }
 }
