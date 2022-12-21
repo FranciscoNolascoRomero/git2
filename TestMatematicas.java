@@ -9,7 +9,7 @@ public class TestMatematicas {
         Scanner sc = new Scanner(System.in);
         int numero = sc.nextInt();
         Matematicas.espar(numero);
-        //Matematicas.esDivisiblePorCinco(numero);
+        Matematicas.esDivisiblePorCinco(numero);
         Matematicas.esDivisiblePorTres(numero);
     }
 }

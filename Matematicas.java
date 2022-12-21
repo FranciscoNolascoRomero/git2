@@ -16,12 +16,12 @@ public class Matematicas {
         }
         return true;
     }
-    /* public static boolean esDivisiblePorCinco(int numero){
+     public static boolean esDivisiblePorCinco(int numero){
         if (numero % 5==0){
             System.out.printf("ES DIVISIBLE X5");
         }else{
             System.out.printf("NO ES DIVISIBLE X5");
         }
-        return true;*/
+        return true;
     }
-
+}
